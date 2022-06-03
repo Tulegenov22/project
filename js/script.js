@@ -37,4 +37,4 @@ let incr = 10
           console.log(isChecked || !isClosed) 
           console.log(2+2!=10)
 
-          const a = 10
+          const a = 12
